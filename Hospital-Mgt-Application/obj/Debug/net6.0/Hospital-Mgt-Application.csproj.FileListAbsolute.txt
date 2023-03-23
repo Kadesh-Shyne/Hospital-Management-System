@@ -1,0 +1,5 @@
+C:\Users\EmmanuelIlivieda\Desktop\Hospital Managment\Hosptial-Managment-System-main\src\backend\Hospital-Mgt-Application\obj\Debug\net6.0\Hospital-Mgt-Application.csproj.AssemblyReference.cache
+C:\Users\EmmanuelIlivieda\Desktop\Hospital Managment\Hosptial-Managment-System-main\src\backend\Hospital-Mgt-Application\obj\Debug\net6.0\Hospital-Mgt-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelIlivieda\Desktop\Hospital Managment\Hosptial-Managment-System-main\src\backend\Hospital-Mgt-Application\obj\Debug\net6.0\Hospital-Mgt-Application.AssemblyInfoInputs.cache
+C:\Users\EmmanuelIlivieda\Desktop\Hospital Managment\Hosptial-Managment-System-main\src\backend\Hospital-Mgt-Application\obj\Debug\net6.0\Hospital-Mgt-Application.AssemblyInfo.cs
+C:\Users\EmmanuelIlivieda\Desktop\Hospital Managment\Hosptial-Managment-System-main\src\backend\Hospital-Mgt-Application\obj\Debug\net6.0\Hospital-Mgt-Application.csproj.CoreCompileInputs.cache
